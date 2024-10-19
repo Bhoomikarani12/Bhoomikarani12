@@ -57,8 +57,7 @@ https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk
   <br>
   <p><b>Thank you for your time.</b><br>
     It was nice having you here.<br><br>
-    If you have any queries or just wanna say hi, <br><b>MAIL ME</b>&nbsp;
-  <a href="mailto:bhoomikaranib1214@gmail.com">
+
       
   </a></p>
 </div>
