@@ -1,31 +1,22 @@
 <div align="center"><img src="Image (2).jfif" style="height: 200px;"></div>
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Bhoomikarani B</h1>
-<br>
 
-<div align="center">
-  <a href="http://linkedin.com/in/bhoomikarani-b-gowda">
-    <img width="30px" src="/assests/linkedin-line.svg"  />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/BhoomikaraniB/">
-    <img width="28px" src="/assests/twitter-line.svg" />
-  </a>  
-  &nbsp;
-  <a href="https://www.instagram.com/withbhoomi/?hl=en">
-    <img width="28px" src="/assests/instagram-line.svg" />
-  </a>  
-  &nbsp;
-  <a href="#">
-    <img width="28px" src="/assests/medium-line.svg" />
-  </a> 
-</div>
-<br>
 <br>
 <h3 align="center">A small introduction ✍</h3>
 <p align="center">I'm Bhoomika Karani B. Gowda, a passionate software developer with a keen interest in building innovative solutions. With a background in AI Joule Developer and experience in Java, I thrive on tackling challenging projects and collaborating with others to deliver high-quality code.
 I enjoy exploring new technologies and continuously improving my skills. In my spare time, I contribute to open-source projects and engage with the developer community.</p>
 <br>
+## 🌐 &nbsp;Contact
 
+[![LinkedIn](https://img.shields.io/badge/-pavanmg007-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pavanmg007/)](http://linkedin.com/in/bhoomikarani-b-gowda)
+
+[![Twitter Badge](https://img.shields.io/badge/-@pavanmg007-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pavanmg007)](https://twitter.com/BhoomikaraniB)
+
+[![Gmail Badge](https://img.shields.io/badge/-contact.pavanmg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact.pavanmg@gmail.com)](mailto:bhoomikaranib1214@gmail.com)
+
+[![Instagram](
+https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/withbhoomi)
+ 
 <br>  
 <h3>Tech stack I work with 👇</h3>
 
@@ -75,7 +66,7 @@ https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk
     It was nice having you here.<br><br>
     If you have any queries or just wanna say hi, <br><b>MAIL ME</b>&nbsp;
   <a href="mailto:bhoomikaranib1214@gmail.com">
-      <img width="20px" src="/assests/gmail.svg" />
+      
   </a></p>
 </div>
 <br>
