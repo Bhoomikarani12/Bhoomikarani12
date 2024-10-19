@@ -6,16 +6,8 @@
 <p align="center">I'm Bhoomika Karani B. Gowda, a passionate software developer with a keen interest in building innovative solutions. With a background in AI Joule Developer and experience in Java, I thrive on tackling challenging projects and collaborating with others to deliver high-quality code.
 I enjoy exploring new technologies and continuously improving my skills. In my spare time, I contribute to open-source projects and engage with the developer community.</p>
 <br>
-## 🌐 &nbsp;Contact
-
-[![LinkedIn](https://img.shields.io/badge/-pavanmg007-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pavanmg007/)](http://linkedin.com/in/bhoomikarani-b-gowda)
-
-[![Twitter Badge](https://img.shields.io/badge/-@pavanmg007-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pavanmg007)](https://twitter.com/BhoomikaraniB)
-
-[![Gmail Badge](https://img.shields.io/badge/-contact.pavanmg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact.pavanmg@gmail.com)](mailto:bhoomikaranib1214@gmail.com)
-
-[![Instagram](
-https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/withbhoomi)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/withbhoomi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/bhoomikarani-b-gowda) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@BhoomikaraniB)
  
 <br>  
 <h3>Tech stack I work with 👇</h3>
