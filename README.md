@@ -6,6 +6,7 @@
 <p align="center">I'm Bhoomika Karani B. Gowda, a passionate software developer with a keen interest in building innovative solutions. With a background in AI Joule Developer and experience in Java, I thrive on tackling challenging projects and collaborating with others to deliver high-quality code.
 I enjoy exploring new technologies and continuously improving my skills. In my spare time, I contribute to open-source projects and engage with the developer community.</p>
 <br>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/withbhoomi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/bhoomikarani-b-gowda) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@BhoomikaraniB)
  
