@@ -1,4 +1,4 @@
-<div align="center"><img src="Image.jfif" style="height: 200px;"></div>
+<div align="center"><img src="Image(2).jfif" style="height: 200px;"></div>
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Bhoomikarani B</h1>
 <br>
 
