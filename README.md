@@ -11,8 +11,8 @@ I enjoy exploring new technologies and continuously improving my skills. In my s
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/withbhoomi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/bhoomikarani-b-gowda) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@BhoomikaraniB) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bhoomikaranib1214@gmail.com)
 
  
-<br>  
-<h3>Tech stack I work with 👇</h3>
+ 
+# Tech stack I work with 👇
 
 
 <h4>Languages</h4>     
